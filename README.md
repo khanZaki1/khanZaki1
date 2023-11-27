@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zakiportfolio.netlify.app/](https://zakiportfolio.netlify.app/)
 
-- 💬 Ask me about **Django, Django Rest Framework, React.js & Next.js**
+- 💬 Ask me about **Django, Django Rest Framework, FastAPI React.js & Next.js**
 
 - 📫 How to reach me **zaki.tarveen@gmail.com**
 
